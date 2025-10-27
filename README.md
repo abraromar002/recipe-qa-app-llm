@@ -1,4 +1,4 @@
-# 🍪 Recipe Q&A LLM Assistant
+# 🍪 Recipe Q&A LLM Assistant (RAG)
 
 ## Project Description
 This project is a **smart cooking assistant** that uses an LLM model to answer questions about recipes and ingredients. Users can type any cooking-related question and get direct answers, along with tips and suggestions.
