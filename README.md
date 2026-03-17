@@ -21,4 +21,4 @@ This project is a **smart cooking assistant** that uses an LLM model to answer q
 1. Clone the repository:
    ```bash
    git clone https://github.com/abraromar002/recipe-qa-app-llm.git
-<img width="1918" height="802" alt="image" src="https://github.com/user-attachments/assets/bd1d5ef4-ba1b-47db-893a-3920ec66fe09" />
+![Uploading image.png…]()
